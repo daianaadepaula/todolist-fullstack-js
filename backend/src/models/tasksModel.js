@@ -1,5 +1,5 @@
 const getAll = () => {
-
+	
 };
 
 module.exports = {
